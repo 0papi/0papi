@@ -9,7 +9,7 @@ Just over a year ago, while doing my national service, I was introduced to progr
 * 🌍  I'm based in Kumasi, Ghana
 * View my portfolio at <a href="https://kojo.netlify.app/" target="_blank">here</a>
 * ✉️  You can contact me at [evanskwofie67@gmail.com](mailto:evanskwofie67@gmail.com)
-* 🧠  I'm currently learning Express and TS
+* 🧠  I'm currently learning React Query & Redux
 * 🤝  I'm open to collaborating on interesting & open-source projects
 * ⚡  I love fiction to a fault and sometimes fancy myself a writer!
 
