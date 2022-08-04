@@ -3,9 +3,6 @@ Hi 👋 My name is Evans Kojo Kwofie
 
 Web Developer
 -------------
-
-Just over a year ago, while doing my national service, I was introduced to programming. I haven't looked back since my first brush with HTML.
-
 * 🌍  I'm based in Kumasi, Ghana
 * View my portfolio at <a href="https://kojo.netlify.app/" target="_blank">here</a>
 * ✉️  You can contact me at [evanskwofie67@gmail.com](mailto:evanskwofie67@gmail.com)
