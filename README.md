@@ -3,7 +3,7 @@ Hi 👋 My name is Evans Kojo Kwofie
 
 Web Developer
 -------------
-* 🌍  I'm based in Kumasi, Ghana
+* 🌍  I'm based in Tarkwa, Ghana
 * View my portfolio at <a href="https://kojo.netlify.app/" target="_blank">here</a>
 * ✉️  You can contact me at [evanskwofie67@gmail.com](mailto:evanskwofie67@gmail.com)
 * 🧠  I'm currently learning React Query & Redux
