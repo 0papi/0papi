@@ -3,11 +3,10 @@ Hi 👋 My name is Evans Kojo Kwofie
 
 Web Developer
 -------------
-* 🌍  I'm based in Tarkwa, Ghana
+* 🌍  Ghana
 * View my portfolio at <a href="https://evans-kwofie.vercel.app/" target="_blank">here</a>
 * ✉️  You can contact me at [evanskwofie67@gmail.com](mailto:evanskwofie67@gmail.com)
-* 🤝  I'm open to collaborating on interesting & open-source projects
-* ⚡  I love fiction to a fault and sometimes fancy myself a writer!
+
 
 <a href="https://www.twitter.com/evanskwofie5" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/evanskwofie5?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
